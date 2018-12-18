@@ -1,0 +1,19 @@
+{
+  "name": "circle_branch",
+  "version": "1.0.0",
+  "description": "just a super simple app to test circle CI branch building",
+  "main": "index.js",
+  "scripts": {
+    "d_test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethuster/circle_branch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethuster/circle_branch/issues"
+  },
+  "homepage": "https://github.com/sethuster/circle_branch#readme"
+}
